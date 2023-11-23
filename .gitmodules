@@ -1,0 +1,3 @@
+[submodule "progress-measures-paper"]
+	path = progress-measures-paper
+	url = https://github.com/mechanistic-interpretability-grokking/progress-measures-paper.git
